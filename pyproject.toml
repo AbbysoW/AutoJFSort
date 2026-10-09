@@ -1,0 +1,10 @@
+[project]
+name = "Jellyfin Auto Organiser"
+version = "0.1.0"
+description = "A simple Python utility for orgonising just downloaded files for better jellyfin catologe organization"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py310
